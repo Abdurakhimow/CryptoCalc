@@ -1,0 +1,10 @@
+{
+    "title": "Bitcoin Trading Calculator",
+    "btcAmountLabel": "Enter Bitcoin Amount:",
+    "buyPriceLabel": "Enter Buy Price (USD):",
+    "sellPriceLabel": "Enter Sell Price (USD):",
+    "commissionLabel": "Enter Commission (%):",
+    "calculateButton": "Calculate Profit",
+    "result": "Profit: ${{profit}}"
+  }
+  
